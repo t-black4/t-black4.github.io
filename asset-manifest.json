@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ca307e0.css",
-    "main.js": "/static/js/main.77762011.js",
+    "main.css": "/static/css/main.288bc876.css",
+    "main.js": "/static/js/main.fabf3e7f.js",
     "static/media/GPIOSecure.png": "/static/media/GPIOSecure.c36cd0d58742c798af2a.png",
     "static/media/face.png": "/static/media/face.3c728d2b603db5636ec5.png",
     "static/media/Times.png": "/static/media/Times.1aed60b743b18d13dc2b.png",
@@ -10,6 +10,7 @@
     "static/media/AMP.PNG": "/static/media/AMP.868e90efdd18bcd68a94.PNG",
     "static/media/led.png": "/static/media/led.b582ed0def205b579eb9.png",
     "static/media/DoorBell.jpg": "/static/media/DoorBell.e3c97a96b92a4db7fa40.jpg",
+    "static/media/ROS_Cuda_node.PNG": "/static/media/ROS_Cuda_node.41503e04504693de215b.PNG",
     "static/media/4bitcpu.png": "/static/media/4bitcpu.116d3bc7e811747eab0a.png",
     "static/media/PowerIMG.PNG": "/static/media/PowerIMG.e3fbb073bb5723c730cb.PNG",
     "static/media/maze.png": "/static/media/maze.76cf6c57cda367bc0aff.png",
@@ -36,11 +37,11 @@
     "static/media/Senior.png": "/static/media/Senior.38abce5119d871c49421.png",
     "static/media/Logo.PNG": "/static/media/Logo.2c7c664f4ef43a419627.PNG",
     "index.html": "/index.html",
-    "main.8ca307e0.css.map": "/static/css/main.8ca307e0.css.map",
-    "main.77762011.js.map": "/static/js/main.77762011.js.map"
+    "main.288bc876.css.map": "/static/css/main.288bc876.css.map",
+    "main.fabf3e7f.js.map": "/static/js/main.fabf3e7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ca307e0.css",
-    "static/js/main.77762011.js"
+    "static/css/main.288bc876.css",
+    "static/js/main.fabf3e7f.js"
   ]
 }
